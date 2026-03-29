@@ -2,6 +2,10 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/RabbitMQClient
+
 /bin/Debug/net8.0
 /obj
+/.vs
+appsettingsYogi.json
+TalentTrack.Worker/appsettingsYogi.Development.json
+TalentTrack.Worker/appsettings.Development.json
